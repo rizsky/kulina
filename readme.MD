@@ -1,4 +1,4 @@
-## Algorithme and stuffs ##
+## Algorithm and stuffs ##
 
 # How to? #
 
